@@ -1,7 +1,7 @@
 package uk.co.lindgrens;
 
 /**
- * Hello world!
+ * Main application entry point
  */
 public class App {
     public static void main(String[] args) {
